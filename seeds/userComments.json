@@ -1,35 +1,27 @@
-{
-    "user_comments": [
-      {
-        "id": 1,
-        "user_id": 4,
-        "content": "I really enjoyed this blog post! It provided some great insights on web development.",
-        "created_at": "2022-05-01T12:00:00Z"
-      },
-      {
-        "id": 2,
-        "user_id": 7,
-        "content": "I found this article very helpful. I'm just starting out with coding and this gave me a good foundation to build on.",
-        "created_at": "2022-06-15T14:30:00Z"
-      },
-      {
-        "id": 3,
-        "user_id": 12,
-        "content": "I have some experience with HTML and CSS, but I learned a lot from this post. Looking forward to reading more from this author!",
-        "created_at": "2022-07-02T09:45:00Z"
-      },
-      {
-        "id": 4,
-        "user_id": 5,
-        "content": "As a developer, I appreciate the in-depth analysis provided in this blog post. Keep up the great work!",
-        "created_at": "2022-07-10T17:20:00Z"
-      },
-      {
-        "id": 5,
-        "user_id": 9,
-        "content": "This was a very interesting read. I didn't know much about this topic before, but now I feel like I have a better understanding.",
-        "created_at": "2022-08-05T10:10:00Z"
-      }
-    ]
+[
+  {
+    "id": 1,
+    "content": "I really enjoyed this blog post! It provided some great insights on web development.",
+    "created_at": "2022-05-01T12:00:00Z"
+  },
+  {
+    "id": 2,
+    "content": "I found this article very helpful. I'm just starting out with coding and this gave me a good foundation to build on.",
+    "created_at": "2022-06-15T14:30:00Z"
+  },
+  {
+    "id": 3,
+    "content": "I have some experience with HTML and CSS, but I learned a lot from this post. Looking forward to reading more from this author!",
+    "created_at": "2022-07-02T09:45:00Z"
+  },
+  {
+    "id": 4,
+    "content": "As a developer, I appreciate the in-depth analysis provided in this blog post. Keep up the great work!",
+    "created_at": "2022-07-10T17:20:00Z"
+  },
+  {
+    "id": 5,
+    "content": "This was a very interesting read. I didn't know much about this topic before, but now I feel like I have a better understanding.",
+    "created_at": "2022-08-05T10:10:00Z"
   }
-  
+]
