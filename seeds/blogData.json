@@ -1,14 +1,14 @@
 [
-  {
-    "title": "Early Bird Special",
-    "blogpost": "We get up early just to scheme"
-  },
-  {
-    "title": "Connive in aisle five",
-    "blogpost": "Scheme at a supermarkt of your choice"
-  },
-  {
-    "title": "Avast ye",
-    "blogpost": "We hit the high seas and get sneaky."
-  }
-]
+    {
+      "title": "How to Optimize Your Website's Loading Speed",
+      "blogpost": "Website loading speed is an important factor in user experience and search engine rankings. Here are some tips on how to optimize your website's loading speed: Use a content delivery network, optimize images, minify CSS and JavaScript, enable browser caching, and reduce HTTP requests."
+    },
+    {
+      "title": "The Rise of Artificial Intelligence in Healthcare",
+      "blogpost": "Artificial intelligence has the potential to revolutionize healthcare by enabling more accurate diagnoses, personalized treatments, and better patient outcomes. Some examples of AI in healthcare include medical image analysis, predictive analytics, and natural language processing for electronic health records."
+    },
+    {
+      "title": "What is Blockchain and How Does it Work?",
+      "blogpost": "Blockchain is a decentralized ledger technology that allows for secure, transparent, and tamper-proof transactions. Each block in the chain contains a cryptographic hash of the previous block, creating a chain of blocks that cannot be altered without invalidating the entire chain. Blockchain has many potential applications beyond cryptocurrency, including supply chain management, identity verification, and voting systems."
+    }
+  ]
