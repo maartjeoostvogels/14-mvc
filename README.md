@@ -47,3 +47,6 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 ## Screenshot
 ![Screenshot of the tech blog](./assets/images/screenshot.png)
+
+## Link to deployed application
+View [the application](https://whispering-earth-69462.herokuapp.com) here.
